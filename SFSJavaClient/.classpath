@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_51"/>
+	<classpathentry kind="lib" path="C:/Users/madhusmitap/git/SFS/SFSJavaClient/lib/SimpleTMX-v3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/madhusmitap/git/SFS/SFSJavaClient/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/madhusmitap/git/SFS/SFSJavaClient/lib/jdom.jar"/>
+	<classpathentry kind="lib" path="C:/Users/madhusmitap/git/SFS/SFSJavaClient/lib/netty-3.2.2.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/madhusmitap/git/SFS/SFSJavaClient/lib/SFS2X_API_Java.jar"/>
+	<classpathentry kind="lib" path="C:/Users/madhusmitap/git/SFS/SFSJavaClient/lib/sfs2x-client-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/madhusmitap/git/SFS/SFSJavaClient/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/madhusmitap/git/SFS/SFSJavaClient/lib/slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
